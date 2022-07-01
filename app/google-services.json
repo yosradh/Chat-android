@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301667153384",
+    "project_id": "chat-app-aeee5",
+    "storage_bucket": "chat-app-aeee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301667153384:android:66c261934c20ae620b205d",
+        "android_client_info": {
+          "package_name": "de.tekup.projet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301667153384-9hdslo72i2og1d1h947agn419mqefg0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZDLpSY2b7o_qAw6mjRAzte85L9hJ-FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301667153384-9hdslo72i2og1d1h947agn419mqefg0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

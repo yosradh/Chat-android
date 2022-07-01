@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Sign_In">Sign In</string>
+    <string name="add_photo">Add photo</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="Name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="select_user">Select_user</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="ecrire_un_message">ecrire un message</string>
+</resources>
